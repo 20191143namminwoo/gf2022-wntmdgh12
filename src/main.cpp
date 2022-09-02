@@ -1,7 +1,7 @@
 ﻿// SDL 
 //
 // written by changhoonpark@gmail.com
-
+//주석처리
 
 #include "main.h"
 
