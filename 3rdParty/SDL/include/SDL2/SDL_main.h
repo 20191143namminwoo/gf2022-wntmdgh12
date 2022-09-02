@@ -18,7 +18,7 @@
      misrepresented as being the original software.
   3. This notice may not be removed or altered from any source distribution.
 */
-
+//주석추가
 #ifndef SDL_main_h_
 #define SDL_main_h_
 
