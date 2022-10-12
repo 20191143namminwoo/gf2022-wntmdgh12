@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+//<<<<<<< Updated upstream
 ﻿// SDL 
 //
 // written by changhoonpark@gmail.com
